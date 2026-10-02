@@ -2,7 +2,7 @@
 
 Mathematics & Computer Science at UC San Diego · Regents Scholar
 
-I build research tools around questions I care about: what changes a football matchup, and what a community statistic can actually tell us. My focus is making the assumptions visible and the results reproducible.
+This is where I am storing some of my High School Projects I made in class.
 
 ## Selected work
 
@@ -20,4 +20,3 @@ A field guide to historical California college-degree attainment. Search communi
 
 ---
 
-I value careful comparisons, timestamped inputs, clear uncertainty, and tools that another person can actually use. Both projects include automated checks and documented limitations.
